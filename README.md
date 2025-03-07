@@ -1,33 +1,11 @@
-# Hi there, I'm hedgemouse! 👋
+# Hello reader 👋
+### I'm hedge_mosue a person, not a bot, don't even think about this being a bot account or anything like that. 🤖
+## What to know about me: 📚
+- I'm a student (i wont tell you where... hehehe), currently learning python in [Logiscool](https://www.logiscool.com/en-hu/)
+- I decided that I'll be a programmer when I was 4 years old
+- Other info is private or I forgot about it, either way its not that important
+## My projects 🚀
+- [SafeAFK](https://github.com/hedgemouse/SafeAFK_Factorio) a simple [Factorio](https://factorio.com/) mod
+- Currently only this one is finished 🙁
 
-Welcome to my GitHub profile! I'm passionate about software development, open source, and continuous learning. Here's a little bit about me:
-
-- 🔭 I’m currently working on various Factorio mods.
-- 🌱 I’m constantly learning and currently we are focusing on Python in Logiscool.
-- 👯 I’m looking to collaborate on Factorio mods or anything interesting.
-- 🤔 I’m looking for help with getting to know GitHub more and Lua.
-- 💬 Ask me about anything related to any of my projects.
-- 📫 How to reach me: [lenhardtnimrod@gmail.com](mailto:lenhardtnimrod@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I wanted to be a programmer when I was 4 years old.
-
-## My GitHub Stats
-
-![hedgemouse's GitHub stats](https://github-readme-stats.vercel.app/api?username=hedgemouse&show_icons=true&theme=radical)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hedgemouse&layout=compact&theme=radical)
-
-## Project I'm Proud Of
-
-Here is the only project I've been working on:
-
-### [SafeAFK]([https://github.com/hedgemouse/project1](https://github.com/hedgemouse/SafeAFK_Factorio))
-A Factorio mod that lets you afk without worrying about your base.
-
-## Get In Touch
-
-Feel free to reach out to me via [lenhardtnimrod@gmail.com](mailto:lenhardtnimrod@gmail.com) or connect with me on Discord (hedge_mouse).
-
-Thanks for stopping by, and happy coding!
+IDK what else to write here... Hmmm maybe.. nevermind. BTW why are you reading this? and why am i writing this, no-one will read it, but now u did :angry-face:
